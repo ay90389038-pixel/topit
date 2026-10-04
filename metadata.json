@@ -1,0 +1,7 @@
+{
+  "name": "TOPIT — Board Exam Preparation Ecosystem",
+  "description": "Complete Indian Board Exam Preparation Ecosystem: CBSE, ICSE & State Boards. Practice, PYQ Intelligence, adaptive testing, Smart Revision, AI Tutor and Practical Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
